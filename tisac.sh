@@ -1,11 +1,13 @@
 #!/bin/bash
 
-echo "                                              
-一键安卓脚本
-作者: hoping
-来自: Claude2.1先行破限组
-群号: 704819371
-类脑Discord: https://discord.gg/HWNkueX34q
+echo "  
+_____                 _____
+___                     ___
+_                         _
+一键安卓搭建酒馆+clewd脚本
+_                         _
+___                     ___
+_____                 _____
 "
 
 echo -e "\033[0;31m记得开魔法！开魔法！开魔法！\033[0m\n"
