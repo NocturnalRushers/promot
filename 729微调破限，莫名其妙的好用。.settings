@@ -18,7 +18,7 @@
     "new_example_chat_prompt": "[Start a new Chat]",
     "continue_nudge_prompt": "[Continue the following message. Do not include ANY parts of the original message. Use capitalization and punctuation as if your reply is a part of the original message: {{lastChatMessage}}]",
     "bias_preset_selected": "Default (none)",
-    "reverse_proxy": "https://claudeuser--nocturnalrusher.repl.co/v1",
+    "reverse_proxy": "http://127.0.0.1:8444/v1",
     "proxy_password": "",
     "legacy_streaming": false,
     "max_context_unlocked": true,
